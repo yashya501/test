@@ -1,2 +1,2 @@
 # test
-startup
+this is the startup of git
